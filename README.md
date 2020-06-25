@@ -1,1 +1,0 @@
-This is Linh's first git project!
